@@ -8,6 +8,6 @@ use python and script to generate cubit mesh
 >2. change the Python version in cubit to 3
 >3. use Python version 3.8 to `import cubit`
 
-A [simple test](Src/test.py) generates two blocks and hex meshes.
-![test](Doc/twoBlocks.png)
-![test](https://github.com/favicon.ico | width=48)
+A [simple test](Src/test.py) generates two blocks and hex meshes.<br/>
+<img src="Doc/twoBlocks.png" width="400"><br/>
+

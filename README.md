@@ -9,5 +9,5 @@ use python and script to generate cubit mesh
 >3. use Python version 3.8 to `import cubit`
 
 A [simple test](Src/test.py) generates two blocks and hex meshes.<br/>
-<img src="Doc/twoBlocks.png" width="400"><br/>
+<img src="Doc/twoBlocks.png" width="600"><br/>
 
